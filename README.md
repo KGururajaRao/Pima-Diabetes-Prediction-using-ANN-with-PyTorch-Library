@@ -1,4 +1,4 @@
-# Pima-Diabetes-Prediction-using-ANN-with-PyTorch-Library
+# Pima Diabetes Prediction using ANN with PyTorch Library
 
 Artificial Neural Networks (ANN), PyTorch Library 
 
